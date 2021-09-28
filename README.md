@@ -6,6 +6,10 @@ A legend is used for interpretation of the map data.
 
 NB: The output can be found in the map1.html file. 
 
+#Requirements
+Python 3.9 
+
 # What I Learnt
 1. How to carry out web mapping in Folium 
 2. How to create choropleth maps by combining geographical and statistical data. 
+
