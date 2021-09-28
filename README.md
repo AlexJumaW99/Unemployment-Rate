@@ -6,7 +6,7 @@ A legend is used for interpretation of the map data.
 
 NB: The output can be found in the map1.html file. 
 
-#Requirements
+# Requirements
 Python 3.9 
 
 # What I Learnt
