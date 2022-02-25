@@ -6,6 +6,12 @@ A legend is used for interpretation of the map data.
 
 NB: The output can be found in the map1.html file. 
 
+# Project Demo
+https://user-images.githubusercontent.com/50864725/155731445-96cba260-fc14-4cc1-8eee-e705262534f9.mp4
+
+# Some Screenshots
+![sc1](https://user-images.githubusercontent.com/50864725/155731596-2eddb755-0c5c-49cc-bb73-2113ad858d05.PNG)
+
 # Requirements
 Python 3.9 
 
